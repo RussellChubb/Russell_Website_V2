@@ -9,3 +9,5 @@
 * Create about Page
 * Implement TypeIt
 * Fix Favicon
+* Fix date for all articles
+* Fix likes and views

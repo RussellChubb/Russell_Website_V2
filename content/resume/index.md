@@ -1,14 +1,34 @@
 ---
-title: "Resume - NOTE: Not up to date! "
+title: "Resume"
 description: "My experience and skills"
 showAuthor: true
 ---
 
-## INSERT DOWNLOAD PDF BUTTON
+## Todo on this page
 
-## Profile (I can't believe I ever led with this)
+* Insert download PDF version of CV
+* See what icons are available
+* Create Meridian Section
+* Update Profile Section
+* Center the Timeline?
+* Add in some Images
+* ~~Add in Author Badge at top~~
+* ~~Add in Page summary on the right~~
+* Try make page take the custom BG
+
+---
+
+## Profile
 
 I have a proven track record of leading and driving change initiatives in a project capacity, as well as strong performance in a BAU role, delivering consistent results, and finding critical process or functional improvements. I bring the ability to seek opportunities and provide support in the delivery of outcomes, a willingness to learn, and a fresh outlook to any challenge.
+
+---
+
+## Download my Resume in a PDF Format!
+
+{{< button href="#button" target="_self" >}}
+Wire this button up to download PDF
+{{< /button >}}
 
 ---
 
@@ -16,7 +36,27 @@ I have a proven track record of leading and driving change initiatives in a proj
 
 {{< timeline >}}
 
-{{< timelineItem icon="star" header="Ministry of Education" badge="Feb 2023 - Present" subheader="Web Adviser" >}}
+{{< timelineItem icon="star" header="Meridian" badge="Aug 2024 - May 2026" subheader="Data Analyst" >}}
+<ul>
+  <li>TODO</li>
+  <li>TODO</li>
+  <li>TODO</li>
+  <li>TODO</li>
+  <li>TODO</li>
+  <li>TODO</li>
+  <li>TODO</li>
+</ul>
+<br>
+<strong>Achievements</strong>
+<ul>
+  <li>Digi-Gen I3</li>
+  <li>Suggestion Box</li>
+  <li>CRM</li>
+  <li>TODO</li>
+</ul>
+{{< /timelineItem >}}
+
+{{< timelineItem icon="star" header="Ministry of Education" badge="Feb 2023 - Aug 2024" subheader="Web Adviser" >}}
 <ul>
   <li>Extraction and transformation of website data through GA4</li>
   <li>Creation of customized GTM tags to support content and marketing objectives</li>

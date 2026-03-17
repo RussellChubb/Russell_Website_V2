@@ -46,16 +46,16 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 [footer]
   showMenu = true
   showCopyright = true
-  showThemeAttribution = false # I will credit Blow-Fish another way!
+  showThemeAttribution = true
   showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
   layout = "custom" # valid options: page, profile, hero, card, background, custom
   homepageImage = "BG_Fix.png" # used in: hero, and card
-  showRecent = false # need to actually have some content
+  showRecent = true # need to actually have some content
   showRecentItems = 5
-  showMoreLink = false
+  showMoreLink = true
   showMoreLinkDest = "/posts/"
   cardView = false
   cardViewScreenWidth = false
@@ -64,35 +64,35 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
-  showDateOnlyInArticle = false
-  showDateUpdated = false
+  showViews = true
+  showLikes = true
+  showDateOnlyInArticle = true
+  showDateUpdated = true
   showAuthor = true
   # showAuthorBottom = false
-  showHero = false
+  # showHero = false
   # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+  # layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
-  showEdit = false
+  # showEdit = true
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
-  seriesOpened = false
+  # seriesOpened = false
   showHeadingAnchors = true
   showPagination = true
-  invertPagination = false
+  # invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
+  showTableOfContents = true
   # showRelatedContent = false
   # relatedContentLimit = 3
-  showTaxonomies = false # use showTaxonomies OR showCategoryOnly, not both
-  showCategoryOnly = false # use showTaxonomies OR showCategoryOnly, not both
+  # showTaxonomies = false # use showTaxonomies OR showCategoryOnly, not both
+  # showCategoryOnly = false # use showTaxonomies OR showCategoryOnly, not both
   showAuthorsBadges = true
   showWordCount = true
-  # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
-  showZenMode = false
+  sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "pinterest", "facebook", "email", "whatsapp"]
+  # showZenMode = false
   # externalLinkForceNewTab = false # disable to allow external links in the same tab (defaults to true)
 
 [list]
