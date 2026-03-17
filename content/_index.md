@@ -1,12 +1,14 @@
 ---
-description: Hello world
+description: Hello world!
 ---
 
+<!-- # This is an image I used for socials, maybe something to do one day -->
 <!-- ![Socials](Socials.png) -->
 
+<!-- Socials Section -->
 # Socials
 
-<div class="flex justify-center gap-3 mt-4">
+<div class="flex flex-wrap justify-center gap-3 mt-4">
   <a href="mailto:Russell.d.Chubb@gmail.com"><span style="width:48px; height:48px; display:inline-block; font-size:48px;">{{< icon "email" >}}</span></a>
   <a href="https://github.com/RussellChubb"><span style="width:48px; height:48px; display:inline-block; font-size:48px;">{{< icon "github" >}}</span></a>
   <a href="https://www.instagram.com/russell.chubb/"><span style="width:48px; height:48px; display:inline-block; font-size:48px;">{{< icon "instagram" >}}</span></a>

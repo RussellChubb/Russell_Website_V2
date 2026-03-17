@@ -8,3 +8,4 @@
 * Create Projects page
 * Create about Page
 * Implement TypeIt
+* Fix Favicon
