@@ -1,3 +1,19 @@
 # Git Ignore File
 
-public/public/
+# Hugo build output
+public/
+
+# Hugo cache
+.hugo_build.lock
+resources/_gen/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Node (if you ever use npm tools)
+node_modules/
