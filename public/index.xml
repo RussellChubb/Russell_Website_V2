@@ -22,6 +22,26 @@
     </item>
     
     <item>
+      <title>Travel</title>
+      <link>http://localhost:1313/Russell_Website_V2/posts/travel/travel/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <author>Russell.d.Chubb@gmail.com (Russell Chubb)</author>
+      <guid>http://localhost:1313/Russell_Website_V2/posts/travel/travel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>What Media have I consumed in 2026?</title>
+      <link>http://localhost:1313/Russell_Website_V2/posts/content_consumed/content_consumed/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <author>Russell.d.Chubb@gmail.com (Russell Chubb)</author>
+      <guid>http://localhost:1313/Russell_Website_V2/posts/content_consumed/content_consumed/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>http://localhost:1313/Russell_Website_V2/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
