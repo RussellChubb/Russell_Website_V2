@@ -5,31 +5,31 @@ weight = 1
 title = ""
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
-  rtl = false
-  dateFormat = "2 January 2006"
-  logo = "Logo_Trans.png" # Transpearent Logo for the top left corner
-  secondaryLogo = "Logo_BG.png"
-  description = "Russell's Website"
-  copyright = "© 2026 Russell Chubb"
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "Logo_Trans.png"            # Transpearent Logo for the top left corner
+secondaryLogo = "Logo_Trans.png"
+description = "Russell's Website"
+copyright = "© 2026 Russell Chubb"
 
 [params.author]
-  name = "Russell Chubb"
-  email = "Russell.d.Chubb@gmail.com"
-  image = "Logo_BG.png"
-  imageQuality = 96
-  headline = "All I am is what I am..."
-  bio = "yo"
-  links = [
-    { email = "Russell.d.Chubb@gmail.com" },
-    { github = "https://github.com/RussellChubb" },
-    { instagram = "https://www.instagram.com/russell.chubb/" },
-    { linkedin = "https://www.linkedin.com/in/russell-chubb-323a1821b/" },
-#     { medium = "https://medium.com/username" }, # will do this one day!
-#     { patreon = "https://www.patreon.com/username" }, # will do this one day!
-    { pinterest = "https://pin.it/130Y0XqQf" },
-    { soundcloud = "https://soundcloud.com/ogrussellc" },
-    { spotify = "https://open.spotify.com/user/12165084687" },
-    { youtube = "https://www.youtube.com/@Russell_Chubb" },
-  ]
+name = "Russell Chubb"
+email = "Russell.d.Chubb@gmail.com"
+image = "Logo_BG.png"
+imageQuality = 96
+headline = "All I am is what I am..."
+bio = "yo"
+links = [
+  { email = "Russell.d.Chubb@gmail.com" },
+  { github = "https://github.com/RussellChubb" },
+  { instagram = "https://www.instagram.com/russell.chubb/" },
+  { linkedin = "https://www.linkedin.com/in/russell-chubb-323a1821b/" },
+  #     { medium = "https://medium.com/username" }, # will do this one day!
+  #     { patreon = "https://www.patreon.com/username" }, # will do this one day!
+  { pinterest = "https://pin.it/130Y0XqQf" },
+  { soundcloud = "https://soundcloud.com/ogrussellc" },
+  { spotify = "https://open.spotify.com/user/12165084687" },
+  { youtube = "https://www.youtube.com/@Russell_Chubb" },
+]
