@@ -104,27 +104,19 @@ options: {
     }
   },
   plugins: {
-  title: {
-    display: false,
-    text: 'Skills Profile',
-    color: '#ffffff',
-    font: {
-      size: 16,
-      weight: 'bold'
+    title: {
+      display: false
     },
-    padding: {
-      bottom: 20
-    }
-  },
-  legend: {
-    display: false
-  },
-  tooltip: {
-    callbacks: {
-      label: function(context) {
-        const value = context.raw;
-        const percent = value * 10;
-        return ' ' + value + '/10 — ' + percent + '% progress towards \"mastery\"';
+    legend: {
+      display: false
+    },
+    tooltip: {
+      callbacks: {
+        label: function(context) {
+          const value = context.raw;
+          const percent = value * 10;
+          return ' ' + value + '/10 — ' + percent + '% progress towards "mastery"';
+        }
       }
     }
   }
@@ -251,7 +243,7 @@ Anyway, once the project had wrapped up, I moved horizontally within MoE across 
 
 With this being said, my actual responsibilities in this role were limited to tending to the Web-Service Help Queue, making edits to the portfolio of *.education.govt.nz* using their CMS systems, as well as assisting with testing to websites following feature releases or bug fixes.
 
-During this role was the first time that I actually began "*working*" directly with data. I was assigned responsibility for managing the Ministry of Educations [Google Analytics Platform](https://developers.google.com/analytics), ensuring that traffic volume data, usage patterns and user journey information was recorded, and continually flowing. It was also during this time that I created my first dashboard using [Looker Studio](https://lookerstudio.google.com/navigation/reporting) (*which I believe was a further breakdown of a user-joruney map for a specific .education.govt.nz site which I can no longer remember the name of*).
+During this role was the first time that I actually began "*working*" directly with data. I was assigned responsibility for managing the Ministry of Educations [Google Analytics Platform](https://developers.google.com/analytics), ensuring that traffic volume data, usage patterns and user journey information was recorded, and continually flowing. It was also during this time that I created my first dashboard using [Looker Studio](https://lookerstudio.google.com/navigation/reporting) (*which I believe was a further breakdown of a user-journey map for a specific .education.govt.nz site which I can no longer remember the name of*).
 
 <!-- Ministry of Education Dashboards -->
 {{< carousel images="{<https://i.imgur.com/0NPMDXA.png,https://i.imgur.com/5oBLzcC.png,https://i.imgur.com/Oxbmacj.png,https://i.imgur.com/JGQhcZd.png,https://i.imgur.com/eqiPb8l.png}>" captions="{<https://i.imgur.com/0NPMDXA.png:He> Pikorua Website Dashboard,<https://i.imgur.com/5oBLzcC.png:Kauwhata> Reo Website Dashboard,<https://i.imgur.com/Oxbmacj.png:MoE> Intranet Dashboard,<https://i.imgur.com/JGQhcZd.png:NCEA> Education Website Dashboard,<https://i.imgur.com/eqiPb8l.png:Kauwhata> Reo Website Dashboard}" >}}
@@ -288,7 +280,7 @@ From there, I belive I would have got onto the [Roadmap.sh](https://roadmap.sh/d
 {{< /accordion >}}
 
 <!-- TODO: Rewrite this -->
-I would actually reccomend that more people go-down a path of semi-self driven study, as I attribute this work with expanding my:
+I would actually recommend that more people go-down a path of semi-self driven study, as I attribute this work with expanding my:
 
 * Creativity
 * Presentation
