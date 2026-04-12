@@ -14,7 +14,7 @@ date: 2026-04-12
   tag=h4
   speed=80
   lifeLike=true
-  breakLines=false
+  breakLines=true
   loop=false
 >}}
 Student: Master, what is the most complex game that man has invented?
@@ -31,11 +31,13 @@ I'm a Data-Analyst living (*as of 12/04/26*) in New Zealand (*although moving to
 
 I've been doing ***Data Stuff*** (*including but not limited to Software Engineering, UX/UI Design and Development, Video and Graphics Editing, Project Implementation*) for ~ 3 years at this point, with a key area that I enjoy being the dissemination of complex and or technical information to a large audience, emphasising design and purpose that fits the need of an end user.
 
-**i.e. I like making shit that people use and enjoy**.
+<!-- Adding this in to let the people know wsup -->
+> [!IMPORTANT]
+> i.e. I like making shit that people use and enjoy.
 
 ## Skill Matrix Spider Chart 🕷️
 
-I always think it's a little silly to have to create a skill matrix for yourself and boil and entire person down to just some skills or characteristics. I think it degrades the complexity of a human being to something abstract.
+I always think it's a little silly to have to create a skill matrix for yourself and boil and entire person down to just some skills or characteristics. I think it degrades the complexity of a human being.
 
 However, just taking a look at this chart gives you a good idea of what kind of skills I have out of the box.
 
@@ -120,11 +122,11 @@ options: {
 
 Heyo! - My name is **Russell David Chubb**.
 
-At the time of writing this, I'm 25 years old. I was born in Brisbane Australia, and moved over to New Zealand when I was around ~ 1 year old. I grew up in Palmerston North, and studied at Wellington, then, moved to Masterton to be closer to my girlfriend and her family!
+At the time of writing this, I'm 25 years old. I was born in Brisbane Australia, and moved over to New Zealand when I was around ~ 1 year old. I grew up in Palmerston North, and studied in Wellington, then, moved to Masterton to be closer to my girlfriend and her family!
 
 Somewhere in late 2026, I'll be settling down in Edinburgh, Scotland, wherein I'll be exploring a brand new country!
 
-When I'm not doing "*Data Stuff*", I'm normally doing the one of the following shown in this graph:
+When I'm not doing "*Data Stuff*", I'm normally engaged in one of the following activities (*shown in this donut-graph*):
 
 <!-- Free Time Donut Chart -->
 {{< chart >}}
@@ -180,12 +182,13 @@ options: {
 }
 {{< /chart >}}
 
+### Computer Origins 🌱
 <!-- First time on PC / Origins -->
 I still remember the exact moment I first used a computer, I would have been about 7 or 8, and the computer would have looked something like the below image:
 
 ![My Childhood Computer](https://i.redd.it/can-anyone-please-tell-me-the-name-of-this-desktop-i-v0-8cpnf9fymosa1.jpg?width=612&format=pjpg&auto=webp&s=eda6ecca368cb69ff05fc2e487f6d546f6c9366d)
 
-Since that pivotal moment, I've been completly enthralled in them. It's hard to say the amount of hours I've spent behind a computer screen, but I'd have to guess that it would be up there at maybe **30,000** Hours over the course of my entire life (*Jeez touch grass much*)
+Since that pivotal moment, I've been completely enthralled in them. It's hard to say the amount of hours I've spent behind a computer screen, but I'd have to guess that it would be up there at maybe **30,000** Hours over the course of my entire life (*Jeez touch grass much*)
 
 ![Bro said how many hours!?](https://images.steamusercontent.com/ugc/2204010189983913838/E0E0AE30F1C491ABD8D962B74BD56BC9D4933524/)
 
@@ -199,19 +202,30 @@ I guess you could say that I first started "*programming*" circa 2016, when I wa
 <!-- This is an image of an Indigo paste that I remember using back in the day. -->
 ![This is the image of the pasted cheat I was using](https://i.imgur.com/DkhoABu.jpg)
 
-Even though I was coding (*coding is a loose term to describe what I would have been doing back in 2016*) in my free-time, I never picked up any computer sciences subjects in school, or even really understood how I could utilize computing as a skill that other people would be interested in. As such, in high-school I was actually studying to become an accountant, an idea, which, once I actually started studying accounting at University, went down the drain very quickly. Long story shirt, I pivoted across to Marketing and Management, and graduated from Victoria University, Wellington in 2023.
+Even though I was coding (*coding is a loose term to describe what I would have been doing back in 2016*) in my free-time, I never picked up any computer sciences subjects in school, or even really understood how I could utilize computing as a skill that other people would be interested in. As such, in high-school I was actually studying to become an accountant, an idea, which, once I actually started studying accounting at University, went down the drain very quickly. Long story short, I pivoted across to Marketing and Management, and graduated from Victoria University, Wellington in 2023.
 
 <!-- Graduation Photo -->
 ![Me on my Graduation day with my parents!](https://i.imgur.com/rRCndl9.jpeg)
 
 Now, I know this doesn't really explain where those "*data skills*" I listed above came from. As it turns out, all a Marketing and Management Degree gives you is about **$50,000** worth of student loan debt, a bunch of life-long friends, and the ability to sink *brews* at an alarming rate.
 
-I managed to get a job prior to finishing my degree as a "*Implementation Advisor*" at the [Ministry of Education](https://www.education.govt.nz/) (*MoE*) working on a project to remove the [Decile System](https://en.wikipedia.org/wiki/Socioeconomic_decile) from the New Zealand Education System (*In the context of the New Zealand Education System, you can think of a decile as a measurement of socioeconomic disadvantage that the composistion of students in a school face. i.e. Decile 1 schools were composed of students facing the highest proportion of socio-economic disadvatnage*). During this role, I engaged with a variety of Education Subject Matter Experts (SME's) to understand how decile was baked into a variety of inititatves, and work out how we can use the new "*Equity Index*" system instead.
+### Working at the Ministry of Education 💼
+
+I managed to get a job prior to finishing my degree as a "*Implementation Advisor*" at the [Ministry of Education](https://www.education.govt.nz/) (*MoE*) working on a project to remove the [Decile System](https://en.wikipedia.org/wiki/Socioeconomic_decile) from the New Zealand Education System.
+
+<!-- What is decile Accordion -->
+{{< accordion >}}
+  {{< accordionItem title="What is a Decile?" icon="information-circle" >}}
+  In the context of the New Zealand Education System, a decile is a measurement of socioeconomic disadvantage that the composition of students in a school face. Decile 1 schools were composed of students facing the highest proportion of socio-economic disadvantage.
+  {{< /accordionItem >}}
+{{< /accordion >}}
+
+During this role, I engaged with a variety of Education Subject Matter Experts (SME's) to understand how decile was baked into a variety of initiatives, and work out how we can use the new "*Equity Index*" system instead.
 
 <!-- MoE image. -->
 ![Image of the MoE Decile Removal Project Team!](https://i.imgur.com/2Pz7VRl.jpeg)
 
-During this role, I was moved towards the ICT Business-Unit within MoE wherein I got to engage and work first-hand with ICT Professionals for the first time in my career, and I actually attribute this, (*combined with insipiration from a Data-Analyst within my team at MoE - shout out to you Scott*), for first opening my eyes to the world of data, and the outcomes that can be gleamed from it.
+During this role, I was moved towards the ICT Business-Unit within MoE wherein I got to engage and work first-hand with ICT Professionals for the first time in my career, and I actually attribute this, (*combined with inspiration from a Data-Analyst within my team at MoE - shout out to you Scott*), for first opening my eyes to the world of data, and the outcomes that can be gleaned from it.
 
 Anyway, once the project had wrapped up, I moved horizontally within MoE across to the Web-Services team, working as a "Web Advisor". It was during this role that I got my first kind of exposure to Web Development, Including:
 
@@ -221,7 +235,7 @@ Anyway, once the project had wrapped up, I moved horizontally within MoE across 
 * Backend-Development (*Development, Cloud Hosting etc*)
 * And much more!
 
-With this being said, my actualy actual responsibilities in this role were limited to tending to the Web-Service Help Queue, making edits to the portfolio of *.education.govt.nz* using their CMS systems, as well as assisting with testing to websites following feature releases or bug fixes.
+With this being said, my actual responsibilities in this role were limited to tending to the Web-Service Help Queue, making edits to the portfolio of *.education.govt.nz* using their CMS systems, as well as assisting with testing to websites following feature releases or bug fixes.
 
 During this role was the first time that I actually began "*working*" directly with data. I was assigned responsibility for managing the Ministry of Educations [Google Analytics Platform](https://developers.google.com/analytics), ensuring that traffic volume data, usage patterns and user journey information was recorded, and continually flowing. It was also during this time that I created my first dashboard using [Looker Studio](https://lookerstudio.google.com/navigation/reporting) (*which I believe was a further breakdown of a user-joruney map for a specific .education.govt.nz site which I can no longer remember the name of*).
 
@@ -233,7 +247,7 @@ After developing my first dashboard, I got bit with the "**data bug**", as there
 1) Technical.
 2) Good to look at.
 
-At a certain point, I hit some kind of constraint with what I could do with Looker Studio as a Data-Visualisation Engine that I began looking into what else is possible in this space, wherien my world opened to a variety of new avenues.
+At a certain point, I hit some kind of constraint with what I could do with Looker Studio as a Data-Visualisation Engine that I began looking into what else is possible in this space, wherein my world opened to a variety of new avenues.
 
 * SQL (*Enjoyed watching girl with the Dragon Tattoo and seeing her write some lol*)
 * Python / Coding
