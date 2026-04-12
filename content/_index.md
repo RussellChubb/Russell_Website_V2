@@ -1,9 +1,6 @@
 ---
-description: Hello world!
+description: Home-Page for Russell Chubb's Personal Website.
 ---
-
-<!-- # This is an image I used for socials, maybe something to do one day -->
-<!-- ![Socials](Socials.png) -->
 
 <!-- Socials Section -->
 # Socials

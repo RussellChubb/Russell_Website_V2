@@ -5,6 +5,10 @@ showAuthor: true
 showDate: false
 ---
 
+<!-- Adding this in to let people know that this page is WIP -->
+> [!NOTE]
+> As with other pages on the russellchubb.com , this page is a work in progress.
+
 <!-- Quote for this Page -->
 {{< typeit
   tag=h4
@@ -13,7 +17,7 @@ showDate: false
   breakLines=false
   loop=false
 >}}
-"It's hard to look him in the eyes he has so much Rizz - Phillipa Kate"
+"In the midst of winter, I found there was, within me, an invincible summer - Albert Camus"
 {{< /typeit >}}
 
 ---

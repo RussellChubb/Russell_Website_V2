@@ -1,11 +1,15 @@
 ---
 title: "About"
-description: "A bit about me"
+description: "The Story of Russell Chubb"
 showAuthor: true
-date: 2025-03-19
+date: 2026-04-12
 ---
 
-<!-- Quote for this Page -->
+<!-- Adding this in to let people know that this page is WIP -->
+> [!NOTE]
+> As with other pages on the russellchubb.com , this page is a work in progress.
+
+<!-- Saw this from an image on Pinterest, thought it went hard, kinda references a few things I'm into lol -->
 {{< typeit
   tag=h4
   speed=80
@@ -13,20 +17,139 @@ date: 2025-03-19
   breakLines=false
   loop=false
 >}}
-Q: Does it pass the sniff test?
-A: Depends who's sniffing...
+Student: Master, what is the most complex game that man has invented?
+Master: Chess!
+Student: What about Go?
+Master: Go has always existed.
 {{< /typeit >}}
 
 ---
 
-## Hey, I'm Russell 👋
+## TL;DR 👋
 
-....
+I'm a Data-Analyst living (*as of 12/04/26*) in New Zealand (*although moving to Scotland in 2026!*).
 
-## What I'm Working On
+I've been doing ***Data Stuff*** (*including but not limited to Software Engineering, UX/UI Design and Development, Video and Graphics Editing, Project Implementation*) for ~ 3 years at this point, with a key area that I enjoy being the dissemination of complex and or technical information to a large audience, emphasising design and purpose that fits the need of an end user (*i.e. I like making shit that people use and enjoy*).
 
-...
+## Skill Matrix Spider Chart
 
-## Outside of Work
+I always think it's a little silly to have to create a skill matrix for yourself and boil and entire person down to just some skills or characteristics. I think it degrades the complexity of a human being to something abstract.
 
-...
+However, just taking a look at this chart gives you a good idea of what kind of skills I have out of the box.
+
+I do think though, if you do want to get a really good vibe on who I am, and what I can do for you, it's much better that you evaluate my skills based on the outputs of my work, as opposed to a skill matrix that I could in theory, be bullshitting on.
+
+Food for thought.
+
+{{< chart >}}
+type: 'radar',
+data: {
+  labels: ['SQL', 'Python', 'Data Visualisation', 'UX / UI Design', 'Web Development', 'Databricks / Cloud', 'Project Management', 'Graphic Design', 'Communications / Marketing'],
+  datasets: [{
+    label: 'Russell Chubb',
+    data: [6, 6, 8, 8, 3, 3, 3, 7, 8],
+    fill: true,
+    backgroundColor: 'rgba(255, 99, 132, 0.2)',
+    borderColor: 'rgba(255, 99, 132, 1)',
+    pointBackgroundColor: [
+      'rgba(255, 99, 132, 1)',
+      'rgba(255, 159, 64, 1)',
+      'rgba(255, 205, 86, 1)',
+      'rgba(75, 192, 192, 1)',
+      'rgba(54, 162, 235, 1)',
+      'rgba(153, 102, 255, 1)',
+      'rgba(201, 203, 207, 1)',
+      'rgba(255, 99, 132, 1)',
+      'rgba(255, 159, 64, 1)'
+    ],
+    pointBorderColor: '#fff',
+    pointHoverBackgroundColor: '#fff',
+    pointHoverBorderColor: 'rgba(255, 99, 132, 1)',
+    borderWidth: 2,
+    pointRadius: 5,
+    pointHoverRadius: 7
+  }]
+},
+options: {
+  scales: {
+    r: {
+      min: 0,
+      max: 10,
+      ticks: {
+        stepSize: 2,
+        display: false
+      },
+      pointLabels: {
+        font: {
+          size: 13,
+          weight: 'bold'
+        }
+      }
+    }
+  },
+  plugins: {
+    legend: {
+      display: false
+    }
+  }
+}
+{{< /chart >}}
+
+## Long Version
+
+Heyo! - My name is **Russell David Chubb**.
+
+I'm a "*Data Analyst*" (*title feels a little limiting to the work that I do sometimes*) current living in New-Zealand (*although moving over to Scotland in the second half of 2026*).
+
+<!-- First time on PC / Origins -->
+I still remember the exact moment I first used a computer, and since then, I've been completly enthralled in them. It's hard to say the amount of hours I've spent behind a computer screen, but I'd have to guess that it would be up there at maybe **30,000** Hours over the course of my entire life.
+
+<!-- Hacked CSGO Clients -->
+I guess you could say that I first started "*programming*" in 2016, when I was playing around with CS:GO Hacked Clients and Scripts, I remember following a YouTube video for how I can download Visual Studio, pasting some code C++ (*which have essentially been straight jibberish to me*), and then injecting code into the CSGO run-time, just to bunny-hop around servers. (*good fun would reccomend it*).
+
+<!-- This is an image of an Indigo paste that I remember using back in the day. -->
+![CSGO Cheat - Indigo](https://i.imgur.com/DkhoABu.jpg)
+
+Even though I was coding (*coding is a loose term to describe what I would have been doing back in 2016 (Pre LLM Era)*) in my free-time, I never picked up any computer sciences subjects in school, or even really understood how I could use this as a skill that other people would be interested in. As such, in high-school I was actually studying to become an accountant, an idea, which, once I actually started studying accounting at University, went down the drain very quickly. Anyway, I pivoted across to Marketing and Management, and graduated from Victoria University, Wellington in 2023.
+
+Now, I know this doesn't really explain where those "*data skills*" I listed above came from. As it turns out, all a Marketing and Management Degree gives you is about **$50,000** worth of student loan debt, a bunch of life-long friends, and the ability to sink *brews* at an alarming rate.
+
+<!-- Insert a Graduation Photo of Me -->
+
+I managed to get a job prior to finishing my degree as a "*Implementation Advisor*" at the [Ministry of Education](https://www.education.govt.nz/) (*MoE*) working on a project to remove the [Decile System](https://en.wikipedia.org/wiki/Socioeconomic_decile) from the New Zealand Education System (*In the context of the New Zealand Education System, you can think of a decile as a measurement of socioeconomic disadvantage that the composistion of students in a school face. i.e. Decile 1 schools were composed of students facing the highest proportion of socio-economic disadvatnage*). During this role, I engaged with a variety of Education Subject Matter Experts (SME's) to understand how decile was baked into a variety of inititatves, and work out how we can use the new "Equity Index" system instead.
+
+<!-- MOE - Need to insert an image. -->
+
+During this role, I was moved towards the ICT Business-Unit within MoE wherein I got to engage and work first-hand with ICT Professionals for the first time in my career, and I actually attribute this, (*combined with insipiration from a Data-Analyst within my team at MoE - shout out to you Scott*), for first opening my eyes to the world of data, and the outcomes that can be gleamed from it.
+
+Anyway, once the project had wrapped up, I moved horizontally within MoE across to the Web-Services team, working as a "Web Advisor". It was during this role that I got my first kind of exposure to Web Development, Including:
+
+* Business Analysis (*requirement gathering, project planning etc*).
+* Design (*Designers and Front-End Developers working hand in hand, Wire-Frame Development, Figma etc*),  
+* Web-Accessibility Standards,
+* Backend-Development (*Development, Cloud Hosting etc*)
+* And much more!
+
+With this being said, my actualy actual responsibilities in this role were limited to tending to the Web-Service Help Queue, making edits to the portfolio of *.education.govt.nz* using their CMS systems, as well as assisting with testing to websites following feature releases or bug fixes.
+
+During this role was the first time that I actually began "*working*" directly with data. I was assigned responsibility for managing the Ministry of Educations [Google Analytics Platform](https://developers.google.com/analytics), ensuring that traffic volume data, usage patterns and user journey information was recorded, and continually flowing. It was also during this time that I created my first dashboard using [Looker Studio](https://lookerstudio.google.com/navigation/reporting) (*which I believe was a further breakdown of a user-joruney map for a specific .education.govt.nz site which I can no longer remember the name of*).
+
+<!-- This should be a Carousel showing images of some of the visuals I created for MoE - Note maybe switch to Gallery? -->
+{{< carousel images="{<https://i.imgur.com/0NPMDXA.png/https://i.imgur.com/5oBLzcC.png/https://i.imgur.com/Oxbmacj.png/https://i.imgur.com/JGQhcZd.png/https://i.imgur.com/eqiPb8l.png}>" >}}
+
+After developing my first dashboard, I got bit with the "**data bug**", as there was just something so satisfying about the creation of something that could be both:
+
+1) Technical.
+2) Good to look at.
+
+Anyway, at a certain point, I hit some kind of constraint with what I could do with Looker Studio as a Data-Visualisation Engine that I began looking into what else is possible in this space, wherien my world opened to a variety of new skills.
+
+* SQL (*Enjoyed watching girl with the Dragon Tattoo and seeing her write some lol*)
+* Python / Coding
+* Databases
+* Data Visualisation (*Using Python, PowerBI, )
+* Databricks
+* Statistics
+* UX / UI
+* Graphic Design
+* Video Editing / Graphic Design
