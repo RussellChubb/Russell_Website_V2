@@ -25,7 +25,7 @@ enableStructuredBreadcrumbs = false
 # Allows readers to reply via email
 replyByEmail = true # turning this on to see what it does
 
-# mainSections = ["section1", "section2"] # Sections to include in the main content feed
+mainSections = ["posts", "projects"] # Sections to include in the main content feed
 # robots = "" # Custom robots meta tag value
 
 # Whether Hugo should optimise/resize images during build
