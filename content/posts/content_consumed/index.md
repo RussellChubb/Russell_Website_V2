@@ -2,8 +2,9 @@
 title: "What Media have I consumed in 2026?"
 description: "TODO"
 showAuthor: true
-date: 2025-03-19
+date: 2026-03-19
 featureimage: "featured.jpg"
+tags: ["Personal"]
 ---
 
 <!-- Adding this in to let people know that this page is WIP -->

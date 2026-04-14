@@ -4,7 +4,7 @@ description: "TODO"
 showAuthor: true
 showViews: true
 showLikes: true
-showDate: false
+date: 2026-04-14
 featureimage: "featured.png"
 ---
 
