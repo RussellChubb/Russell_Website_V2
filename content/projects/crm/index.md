@@ -13,7 +13,7 @@ tags: ["PowerApps", "PowerBI", "Power-Automate", "Professional"]
 > [!NOTE]
 > As with other pages on the russellchubb.com , this page is a work in progress.
 
-<!-- Thanks Rowan for this Quote -->
+<!-- Found this when searching for Organizational Memory -->
 {{< typeit
   tag=h4
   speed=80
@@ -21,14 +21,63 @@ tags: ["PowerApps", "PowerBI", "Power-Automate", "Professional"]
   breakLines=true
   loop=false
 >}}
-Q: Did you get your photos printed?
-A: Bogos binted?
-Q: Huh?
+"To my mind, one of the greatest disciplines of any human life is the discipline of memory, of remembering what is essential in the midst of our business and busyness" - David Whyte
 {{< /typeit >}}
+
+---
 
 ## CRM 🤝
 
+### Meta Information 🧠
+
+**Status:** {{< badge >}} Complete {{< /badge >}}
+**Last Updated (*Roughly*)**: {{< badge >}} 20/12/2025 {{< /badge >}}
+**Project-Type**: {{< badge >}} Professional {{< /badge >}}
+
+<!-- Adding this so that people know I'm not leaking details -->
+> [!IMPORTANT]
+> Given the nature of the CRM being both a professional project, as well as one that handles a large amount of PII (*Personally Identifiable Information), care has been taken to ensure that I'm not surfacing any sensitive information about Meridian, or it's external stakeholders.
+
+<!-- ### Image Gallery
+
+* TODO
+
+{{< gallery >}}
+  {{< figure src="gallery/01.jpg" alt="Gallery image 1" caption="First caption" figureClass="grid-w33" >}}
+  {{< figure src="gallery/02.jpg" alt="Gallery image 2" caption="Second caption" figureClass="grid-w33" >}}
+  {{< figure src="gallery/03.jpg" alt="Gallery image 3" caption="Third caption" figureClass="grid-w33" >}}
+{{< /gallery >}}
+
+-->
+
+### Purpose 🎯
+
 Business Memory Tool...
 
-<!-- CRM Image Carousel -->
-{{< carousel images="{<https://i.imgur.com/0NPMDXA.png,https://i.imgur.com/5oBLzcC.png,https://i.imgur.com/Oxbmacj.png,https://i.imgur.com/JGQhcZd.png,https://i.imgur.com/eqiPb8l.png}>" captions="{<https://i.imgur.com/0NPMDXA.png:He> Pikorua Website Dashboard,<https://i.imgur.com/5oBLzcC.png:Kauwhata> Reo Website Dashboard,<https://i.imgur.com/Oxbmacj.png:MoE> Intranet Dashboard,<https://i.imgur.com/JGQhcZd.png:NCEA> Education Website Dashboard,<https://i.imgur.com/eqiPb8l.png:Kauwhata> Reo Website Dashboard}" >}}
+### Context / History
+
+### Problem Statement
+
+### Retrospective
+
+<!-- ### Design Inspiration
+
+* TODO
+
+{{< gallery >}}
+  {{< figure src="gallery/01.jpg" alt="Gallery image 1" caption="First caption" figureClass="grid-w33" >}}
+  {{< figure src="gallery/02.jpg" alt="Gallery image 2" caption="Second caption" figureClass="grid-w33" >}}
+  {{< figure src="gallery/03.jpg" alt="Gallery image 3" caption="Third caption" figureClass="grid-w33" >}}
+{{< /gallery >}}
+
+### Tech Stack
+
+* TODO
+
+### Limitations?
+
+### Future Ideas? -->
+
+### Github Repository 🔗
+
+{{< github repo="RussellChubb/Golfah" showThumbnail=false >}}
