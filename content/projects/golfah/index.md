@@ -35,6 +35,18 @@ tags: ["Python", "Streamlit", "Personal"]
 **Project-Type**: {{< badge >}} Personal {{< /badge >}}
 **Link**: {{< badge >}} [Golfah](https://golfah.streamlit.app/) {{< /badge >}}
 
+<!-- ### Image Gallery
+
+* TODO
+
+{{< gallery >}}
+  {{< figure src="gallery/01.jpg" alt="Gallery image 1" caption="First caption" figureClass="grid-w33" >}}
+  {{< figure src="gallery/02.jpg" alt="Gallery image 2" caption="Second caption" figureClass="grid-w33" >}}
+  {{< figure src="gallery/03.jpg" alt="Gallery image 3" caption="Third caption" figureClass="grid-w33" >}}
+{{< /gallery >}}
+
+-->
+
 ### Purpose 🎯
 
 The purpose of Golfah is to help me track data and information related to my golf-game such that I'm able to leverage that information to track whether or not I'm improving.
