@@ -1,10 +1,10 @@
 ---
 title: "Golfah"
-description: "TODO"
+description: "Golfah is a Python Streamlit Application designed to track information about whether a user is improving at golf."
 showAuthor: true
 showViews: true
 showLikes: true
-date: 2026-04-14
+date: 2026-04-16
 featureimage: "featured.png"
 tags: ["Python", "Streamlit", "Personal"]
 ---
@@ -21,7 +21,7 @@ tags: ["Python", "Streamlit", "Personal"]
   breakLines=true
   loop=false
 >}}
-"There is no such thing as **Natural Touch**. Touch is something you craete by hitting millions of golf balls." - Lee Trevino
+"There is no such thing as natural touch. Touch is something you craete by hitting millions of golf balls." - Lee Trevino
 {{< /typeit >}}
 
 ---
@@ -35,9 +35,8 @@ tags: ["Python", "Streamlit", "Personal"]
 * **Project-Type**: {{< badge >}} Personal {{< /badge >}}
 * **Link**: [Golfah](https://golfah.streamlit.app/)
 
-<!-- ### Golfah - Images
-
-{{< carousel images=["Golfah_Screenshots/Golfah_1.png","Golfah_Screenshots/Golfah_2.png","Golfah_Screenshots/Golfah_3.png","Golfah_Screenshots/Golfah_4.png","Golfah_Screenshots/Golfah_5.png","Golfah_Screenshots/Golfah_6.png","Golfah_Screenshots/Golfah_7.png","Golfah_Screenshots/Golfah_8.png"] interval="2500" >}} -->
+<!-- * TODO -->
+<!-- ### Golfah - Images -->
 
 ### What's Golfah's purpose? 🎯
 
@@ -56,11 +55,7 @@ Looking back, if I knew that NZ-Golf had an application, as well as hard-ware re
 
 <!-- ### Design Inspiration
 
-{{/* 
-### Design Inspiration
-
-{{< carousel images="Golfah_Inspiration/*" interval="2500" >}}
-*/}}
+* TODO
 
 ### Tech Stack
 
