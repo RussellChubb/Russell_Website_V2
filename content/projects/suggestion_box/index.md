@@ -1,10 +1,10 @@
 ---
 title: "Suggestion Box"
-description: "TODO"
+description: "The Suggestion Box is a digital suggestion box, allowing users to publicly or anonymously submit suggestions to improve Meridian, built in the Power-Platform."
 showAuthor: true
 showViews: true
 showLikes: true
-date: 2026-04-14
+date: 2026-04-16
 featureimage: "featured.png"
 tags: ["PowerApps", "PowerBI", "Power-Automate", "Professional"]
 ---
@@ -13,7 +13,7 @@ tags: ["PowerApps", "PowerBI", "Power-Automate", "Professional"]
 > [!NOTE]
 > As with other pages on the russellchubb.com , this page is a work in progress.
 
-<!-- Thanks Rowan for this Quote -->
+<!-- Toastmasters Man -->
 {{< typeit
   tag=h4
   speed=80
@@ -21,14 +21,46 @@ tags: ["PowerApps", "PowerBI", "Power-Automate", "Professional"]
   breakLines=true
   loop=false
 >}}
-Q: Did you get your photos printed?
-A: Bogos binted?
-Q: Huh?
+"Faultfinding without suggestions for improvement is a waste of time" - Ralph C Smedley
 {{< /typeit >}}
+
+---
 
 ## Suggestion Box 💡
 
-Digital Suggestion Box...
+### Meta Information 🧠
 
-<!-- Suggestion Box Image Carousel -->
-{{< carousel images="{<https://i.imgur.com/0NPMDXA.png,https://i.imgur.com/5oBLzcC.png,https://i.imgur.com/Oxbmacj.png,https://i.imgur.com/JGQhcZd.png,https://i.imgur.com/eqiPb8l.png}>" captions="{<https://i.imgur.com/0NPMDXA.png:He> Pikorua Website Dashboard,<https://i.imgur.com/5oBLzcC.png:Kauwhata> Reo Website Dashboard,<https://i.imgur.com/Oxbmacj.png:MoE> Intranet Dashboard,<https://i.imgur.com/JGQhcZd.png:NCEA> Education Website Dashboard,<https://i.imgur.com/eqiPb8l.png:Kauwhata> Reo Website Dashboard}" >}}
+* **Project-Type**: {{< badge >}} Professional {{< /badge >}}
+* **My Role in Project**: {{< badge >}} Front-end Developer, Back-end Developer, Communications, Planning, Design, UX/UI {{< /badge >}}
+
+<!-- Adding this so that people know I'm not leaking details -->
+> [!IMPORTANT]
+> Given the nature of the Suggestion Box being both a professional project, as well as one that handles a large amount of PII (Personally Identifiable Information), care has been taken to ensure that I'm not surfacing any sensitive information about Meridian, or it's external stakeholders.
+
+### Suggestion Box - Images 🖼️
+
+{{< carousel images="gallery/*" aspectRatio="16-9" interval="3000" >}}
+
+### What's the Suggestion Box's purpose? 🎯
+
+Good exceutives and senior managers know that the best business decisions come from people on the ground, but for Meridian there is generally a large seperation between those in Manangement, and the people that are out on site. As such, the objective of the Suggestion Box was to make a low-friction way for site staff (*also including those in offices*), to create and submit a suggestion, such that these ideas would be able to be triaged, and some surfaced up to management to then spin-off projects.
+
+<!-- TODO: Possibly add a custom colour and Icon to this (*to make it a bit more fancy*) -->
+<!-- Anti AI Slop Sentiment -->
+> [!IMPORTANT]
+> Every line on this page is written by me. I do use AI assistance for the following:
+>
+> * Ideation
+> * Code Generation
+> * Spelling / Grammar
+>
+> But the words, opinions, and bad jokes are mine.
+
+<!-- TODO Section -->
+<!-- Context / History -->
+<!-- Problem Statement -->
+<!-- Retrospective -->
+<!-- Design Inspiration
+<!-- Tech Stack -->
+<!-- Limitations -->
+<!-- Future Ideas -->

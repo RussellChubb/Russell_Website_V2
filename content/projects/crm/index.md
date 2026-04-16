@@ -1,10 +1,10 @@
 ---
 title: "CRM"
-description: "TODO"
+description: "The CRM is a organizational memory application built in the Power-Platform"
 showAuthor: true
 showViews: true
 showLikes: true
-date: 2026-04-14
+date: 2026-04-16
 featureimage: "featured.png"
 tags: ["PowerApps", "PowerBI", "Power-Automate", "Professional"]
 ---
@@ -30,40 +30,42 @@ tags: ["PowerApps", "PowerBI", "Power-Automate", "Professional"]
 
 ### Meta Information 🧠
 
-**Status:** {{< badge >}} Complete {{< /badge >}}
-**Last Updated (*Roughly*)**: {{< badge >}} 20/12/2025 {{< /badge >}}
-**Project-Type**: {{< badge >}} Professional {{< /badge >}}
+* **Project-Type**: {{< badge >}} Professional {{< /badge >}}
+* **My Role in Project**: {{< badge >}} Front-end Developer, Back-end Developer, Communications, Planning, Design, UX/UI {{< /badge >}}
 
 <!-- Adding this so that people know I'm not leaking details -->
 > [!IMPORTANT]
-> Given the nature of the CRM being both a professional project, as well as one that handles a large amount of PII (*Personally Identifiable Information), care has been taken to ensure that I'm not surfacing any sensitive information about Meridian, or it's external stakeholders.
+> Given the nature of the CRM being both a professional project, as well as one that handles a large amount of PII (Personally Identifiable Information), care has been taken to ensure that I'm not surfacing any sensitive information about Meridian, or it's external stakeholders.
 
 ### CRM - Images 🖼️
 
-{{< carousel images="gallery/*" aspectRatio="21-9" interval="2500" >}}
+{{< carousel images="gallery/*" aspectRatio="16-9" interval="3000" >}}
 
-### Purpose 🎯
+### What's the CRM's purpose? 🎯
 
-Business Memory Tool...
+The purpose of the CRM is two-fold:
 
-### Context / History
+* Create a database of all Meridian's key Stakeholders.
+* Record material interactions between Meridian and our Stakeholders.
 
-### Problem Statement
+The biggest thing sitting behind both of those bullet-points though is the ability to create a form of [Organizational Memory](https://en.wikipedia.org/wiki/Organizational_memory) such that it allows all Meridian staff to get on the same page when dealing with external stakeholders.
 
-### Retrospective
+<!-- TODO: Possibly add a custom colour and Icon to this (*to make it a bit more fancy*) -->
+<!-- Anti AI Slop Sentiment -->
+> [!IMPORTANT]
+> Every line on this page is written by me. I do use AI assistance for the following:
+>
+> * Ideation
+> * Code Generation
+> * Spelling / Grammar
+>
+> But the words, opinions, and bad jokes are mine.
 
-<!-- ### Design Inspiration
-
-* TODO
-
-### Tech Stack
-
-* TODO
-
-### Limitations?
-
-### Future Ideas? -->
-
-### Github Repository 🔗
-
-{{< github repo="RussellChubb/Golfah" showThumbnail=false >}}
+<!-- TODO Section -->
+<!-- Context / History -->
+<!-- Problem Statement -->
+<!-- Retrospective -->
+<!-- Design Inspiration
+<!-- Tech Stack -->
+<!-- Limitations -->
+<!-- Future Ideas -->

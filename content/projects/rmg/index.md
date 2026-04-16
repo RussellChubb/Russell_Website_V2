@@ -1,6 +1,6 @@
 ---
 title: "RMG"
-description: "TODO"
+description: "Russell's Math Game (RMG) was a fun way for me to practice programming, and create a fun game in the process."
 showAuthor: true
 showViews: true
 showLikes: true
@@ -21,14 +21,46 @@ tags: ["Python", "PyGame", "Personal"]
   breakLines=true
   loop=false
 >}}
-Q: Did you get your photos printed?
-A: Bogos binted?
-Q: Huh?
+"You ain't beating Hayden..." - Russell Chubb
 {{< /typeit >}}
+
+---
 
 ## Russell's (*Really Cool*) Math Game (RMG) 👾
 
-RMG was built to allow me to improve at my double digit integer addition...
+* **Status:** {{< badge >}} In-Progress {{< /badge >}}
+* **Last Updated (*Roughly*)**: {{< badge >}} 16/06/2025 {{< /badge >}}
+* **Project-Type**: {{< badge >}} Personal {{< /badge >}}
 
-<!-- RMG Image Carousel -->
-{{< carousel images="{<https://i.imgur.com/0NPMDXA.png,https://i.imgur.com/5oBLzcC.png,https://i.imgur.com/Oxbmacj.png,https://i.imgur.com/JGQhcZd.png,https://i.imgur.com/eqiPb8l.png}>" captions="{<https://i.imgur.com/0NPMDXA.png> He Pikorua Dashboard,<https://i.imgur.com/5oBLzcC.png> Kauwhata Reo Dashboard,<https://i.imgur.com/Oxbmacj.png:MoE> Intranet Dashboard,<https://i.imgur.com/JGQhcZd.png:NCEA> Education Dashboard,<https://i.imgur.com/eqiPb8l.png:Kauwhata> Reo Dashboard}" >}}
+### What's OptiX's purpose? 🎯
+
+Russell's Math Game (RMG) was a fun way for me to practice programming, and create a fun game in the process.
+
+### RMG - Images 🖼️
+
+{{< carousel images="gallery/*" aspectRatio="16-9" interval="3000" >}}
+
+### Github Repository 🔗
+
+{{< github repo="RussellChubb/Math_Game" showThumbnail=false >}}
+
+<!-- TODO: Possibly add a custom colour and Icon to this (*to make it a bit more fancy*) -->
+<!-- Anti AI Slop Sentiment -->
+> [!IMPORTANT]
+> Every line on this page is written by me. I do use AI assistance for the following:
+>
+> * Ideation
+> * Code Generation
+> * Spelling / Grammar
+>
+> But the words, opinions, and bad jokes are mine.
+
+<!-- TODO Section -->
+<!-- Context / History -->
+<!-- Problem Statement -->
+<!-- Retrospective -->
+<!-- Design Inspiration
+<!-- Tech Stack -->
+<!-- Limitations -->
+<!-- Future Ideas -->
+<!-- Gotta insert that image of everyone playing the game at drinks! -->

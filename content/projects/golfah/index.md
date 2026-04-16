@@ -21,7 +21,7 @@ tags: ["Python", "Streamlit", "Personal"]
   breakLines=true
   loop=false
 >}}
-"There is no such thing as natural touch. Touch is something you craete by hitting millions of golf balls." - Lee Trevino
+"There is no such thing as natural touch. Touch is something you create by hitting millions of golf balls." - Lee Trevino
 {{< /typeit >}}
 
 ---
@@ -37,7 +37,7 @@ tags: ["Python", "Streamlit", "Personal"]
 
 ### Golfah - Images 🖼️
 
-{{< carousel images="gallery/*" aspectRatio="21-9" interval="2500" >}}
+{{< carousel images="gallery/*" aspectRatio="16-9" interval="3000" >}}
 
 ### What's Golfah's purpose? 🎯
 
@@ -49,39 +49,17 @@ I think I tried to use the Grint for a short period of time, but I really didn't
 
 Looking back, if I knew that NZ-Golf had an application, as well as hard-ware related to allowing you to basically track this information through them, I wouldn't have gone about making this application.
 
-<!-- TODO -->
-<!-- Add some more text into this about tech-stack, limitations etc etc, but I just want to start out with some "finished" content -->
-<!-- Add some context about how exactly you can use the Dot-Golf Stuff -->
-<!-- Captions for the images? -->
-
-<!-- ### Design Inspiration
-
-* TODO
-
-### Tech Stack
-
-* PowerBI
-* Power-Apps
-* Power-Automate
-
-### Limitations?
-
-* Streamlit
-
-### Context / History
-
-* TODO
-
-### Problem Statement
-
-* TODO
-
-### Future Ideas?
-
-* NZ-Golf DB Automatic Connection
-* More course-data 
--->
-
 ### Github Repository 🔗
 
 {{< github repo="RussellChubb/Golfah" showThumbnail=false >}}
+
+<!-- TODO: Possibly add a custom colour and Icon to this (*to make it a bit more fancy*) -->
+<!-- Anti AI Slop Sentiment -->
+> [!IMPORTANT]
+> Every line on this page is written by me. I do use AI assistance for the following:
+>
+> * Ideation
+> * Code Generation
+> * Spelling / Grammar
+>
+> But the words, opinions, and bad jokes are mine.

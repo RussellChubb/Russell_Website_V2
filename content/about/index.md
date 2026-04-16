@@ -248,8 +248,9 @@ With this being said, my actual responsibilities in this role were limited to te
 
 During this role was the first time that I actually began "*working*" directly with data. I was assigned responsibility for managing the Ministry of Educations [Google Analytics Platform](https://developers.google.com/analytics), ensuring that traffic volume data, usage patterns and user journey information was recorded, and continually flowing. It was also during this time that I created my first dashboard using [Looker Studio](https://lookerstudio.google.com/navigation/reporting) (*which I believe was a further breakdown of a user-journey map for a specific .education.govt.nz site which I can no longer remember the name of*).
 
-<!-- Ministry of Education Dashboards -->
-{{< carousel images="{<https://i.imgur.com/0NPMDXA.png,https://i.imgur.com/5oBLzcC.png,https://i.imgur.com/Oxbmacj.png,https://i.imgur.com/JGQhcZd.png,https://i.imgur.com/eqiPb8l.png}>" captions="{<https://i.imgur.com/0NPMDXA.png:He> Pikorua Website Dashboard,<https://i.imgur.com/5oBLzcC.png:Kauwhata> Reo Website Dashboard,<https://i.imgur.com/Oxbmacj.png:MoE> Intranet Dashboard,<https://i.imgur.com/JGQhcZd.png:NCEA> Education Website Dashboard,<https://i.imgur.com/eqiPb8l.png:Kauwhata> Reo Website Dashboard}" >}}
+#### Ministry of Education Dashboards 📊
+
+{{< carousel images="gallery/*" aspectRatio="16-9" interval="3000" >}}
 
 After developing my first dashboard, I got bit with the "**data bug**", as there was just something so satisfying about the creation of something that could be both:
 
