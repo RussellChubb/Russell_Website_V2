@@ -2,6 +2,7 @@
 title: "OptiX"
 description: "OptiX is an outage planning tool developed in Python with Streamlit"
 summary: "Is it possible to use Data to drive better planning outage planning outcomes? Through OptiX, I'd say you have a good chance..."
+showSummary: true # This might not do anything
 showAuthor: true
 showViews: true
 showLikes: true

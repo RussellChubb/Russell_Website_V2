@@ -2,6 +2,7 @@
 title: "CRM"
 description: "The CRM is a organizational memory application built in the Power-Platform"
 summary: "Ever wanted to have Organizational Memory persist? Look no further than the CRM..."
+showSummary: true # This might not do anything
 showAuthor: true
 showViews: true
 showLikes: true

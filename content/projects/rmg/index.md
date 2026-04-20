@@ -2,6 +2,7 @@
 title: "RMG"
 description: "Russell's Math Game (RMG) was a fun way for me to practice programming, and create a fun game in the process."
 summary: "Wanting to improve at your double-digit addition skills? - Give RMG a crack!"
+showSummary: true # This might not do anything
 showAuthor: true
 showViews: true
 showLikes: true

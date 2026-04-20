@@ -1,6 +1,8 @@
 ---
 title: "Suggestion Box"
 description: "The Suggestion Box is a digital suggestion box, allowing users to publicly or anonymously submit suggestions to improve Meridian, built in the Power-Platform."
+summary: "Have you ever seen one of those cardboard boxes for submitting improvements? - Well, what if we digitized it?"
+showSummary: true # This might not do anything
 showAuthor: true
 showViews: true
 showLikes: true

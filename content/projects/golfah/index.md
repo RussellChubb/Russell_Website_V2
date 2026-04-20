@@ -2,6 +2,7 @@
 title: "Golfah"
 description: "Golfah is a Python Streamlit Application designed to track information about whether a user is improving at golf."
 summary: "Wanting to know if you're actually improving at your Golf-Game? Take a peep at Golfah..."
+showSummary: true # This might not do anything
 showAuthor: true
 showViews: true
 showLikes: true
