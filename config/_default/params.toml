@@ -102,8 +102,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showAuthor = true             # Show the author's name and avatar
   # showAuthorBottom = false    # Show author info at the bottom instead of top
   showHero = true            # Show a hero image at the top of the article
-  heroStyle = "basic"         # valid options: basic, big, background, thumbAndBackground
-  # layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+  heroStyle = "thumbandBackground"         # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   # Whether to add extra space above the header (background heroStyle only)
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = true        # Show breadcrumb navigation

@@ -1,6 +1,7 @@
 ---
 title: "What movies have I watched in 2026?"
 description: "I used to spend a large amount of time commuting on trains, and to fill the time, I used to watch movies. I now do a lot less commuting, but I still thought it would be interesting to make a record of all the movies I've watched (*Specifically in 2026*)"
+summary: "Looking for a movie reccomendation? Well then, look no further..."
 showAuthor: true
 date: 2026-04-16
 featureimage: "featured.jpg"

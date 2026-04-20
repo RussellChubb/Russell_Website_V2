@@ -3,6 +3,7 @@ title: "2026 OE/Travel"
 description: "Overview of the information surrounding Russell & Olivia's Travel Plan for 2026"
 showAuthor: true
 date: 2026-04-16
+summary: "Take a look at my plan for how I plan to travel through Europe in 2026!"
 featureimage: "featured.jpg"
 tags: ["Personal"]
 ---
