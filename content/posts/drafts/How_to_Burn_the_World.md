@@ -3,6 +3,8 @@ title: "How to Burn the World"
 draft: true
 ---
 
+## Funnel Income upwards to the top 1% of Society
+
 ## Undermining the Justice System
 
 * Jeffery E
